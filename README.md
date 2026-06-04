@@ -38,9 +38,9 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [[your-link]](https://www.linkedin.com/in/alinur-mammadzada/)
+- 💼 LinkedIn: [Alinur Mammadzada](https://www.linkedin.com/in/alinur-mammadzada/)
 - 📧 Email: alinurmammadzada1@gmail.com
-- 🌐 Portfolio: [[your-website]](https://allyportfolio.onrender.com/)
+- 🌐 Portfolio: [[My Website]](https://allyportfolio.onrender.com/)
 
 ---
 
